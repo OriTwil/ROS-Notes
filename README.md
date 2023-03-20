@@ -16,3 +16,12 @@ ROS学习资料
 - tutorials 教程 
 - reference-book 参考书籍
 - 目前大部分内容是HITSZ选修课的课程资料，是以虚拟机为平台，我们选择性使用即可
+### 学习内容
+- 第一节 ROS概述：ROS现状与起源、ROS总体框架、ROS通信机制、ROS组件
+- 第二节 ROS基础：1. ROS工作空间；2. ROS通信；3. ROS工作机制；4. ROS node编写；5. Cmakelist.txt、
+roslaunch；6. 功能包编译 7.ROS开发中方便的小工具
+- 第三节 ROS与机器人仿真：1. ROS可视化、Gazebo；2. 机器人定义与组成；3. ROS坐标变换；4. 机器人系统构
+建；5. 机器人建模与仿真
+- 第四节 ROS与机器人感知
+- 第五节 ROS与机器人自主导航框架、ROS与机器人SLAM
+- 第六节 WTR传承内容
