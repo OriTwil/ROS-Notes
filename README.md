@@ -8,7 +8,8 @@ ROS学习资料
 ### 学习资料推荐
 - [教程1](https://wiki.ros.org/Documentation)，wiki，最全面的教程，学习ROS的大部分问题基本都可以再Wiki找到，也有中文翻译
 - [教程2](http://www.autolabor.com.cn/book/ROSTutorials/)，很高效的中文教程，配套有详细的视频（b站）和代码，建议直接看教程，不懂的地方再看视频
-- [zhangrelay](https://blog.csdn.net/ZhangRelay)，优质博客
+- [zhangrelay](https://blog.csdn.net/ZhangRelay)，鱼香ROS、古月居：优质博客
+- 
 - 参考书：这个仓库里reference-book直接下载
 ### 文件说明
 - experiment 实验代码
