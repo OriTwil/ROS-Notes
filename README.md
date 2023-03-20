@@ -6,7 +6,7 @@ ROS学习资料
 - 后续会设置一些小实验和ddl
 - ROS只是一个“工具”，学习关键是完成实验，很快就能上手
 ### 学习资料推荐
-- [教程1](https://wiki.ros.org/cn)，wiki，最全面的教程，学习ROS的大部分问题基本都可以再Wiki找到，也有中文翻译
+- [教程1](https://wiki.ros.org/Documentation)，wiki，最全面的教程，学习ROS的大部分问题基本都可以再Wiki找到，也有中文翻译
 - [教程2](http://www.autolabor.com.cn/book/ROSTutorials/)，很高效的中文教程，配套有详细的视频（b站）和代码，建议直接看教程，不懂的地方再看视频
 - [zhangrelay](https://blog.csdn.net/ZhangRelay)，优质博客
 - 参考书：这个仓库里reference-book直接下载
