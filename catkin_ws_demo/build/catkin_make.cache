@@ -1,2 +1,2 @@
-assembly2:foundation_learning:irobot_description:irobot_gazebo:irobot_teleop:tf_learning
+assembly2:foundation_learning:irobot_description:irobot_gazebo:irobot_teleop:robot_vision:tf_learning:usb_cam
 -DCATKIN_DEVEL_PREFIX=/home/szf/ROS-Notes/catkin_ws_demo/devel -DCMAKE_INSTALL_PREFIX=/home/szf/ROS-Notes/catkin_ws_demo/install -G Unix Makefiles

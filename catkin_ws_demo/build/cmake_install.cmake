@@ -132,10 +132,12 @@ if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
   include("/home/szf/ROS-Notes/catkin_ws_demo/build/gtest/cmake_install.cmake")
   include("/home/szf/ROS-Notes/catkin_ws_demo/build/foundation_learning/cmake_install.cmake")
+  include("/home/szf/ROS-Notes/catkin_ws_demo/build/robot_vision/cmake_install.cmake")
   include("/home/szf/ROS-Notes/catkin_ws_demo/build/irobot_teleop/cmake_install.cmake")
   include("/home/szf/ROS-Notes/catkin_ws_demo/build/tf_learning/cmake_install.cmake")
   include("/home/szf/ROS-Notes/catkin_ws_demo/build/irobot_gazebo/cmake_install.cmake")
   include("/home/szf/ROS-Notes/catkin_ws_demo/build/assembly2/cmake_install.cmake")
+  include("/home/szf/ROS-Notes/catkin_ws_demo/build/usb_cam/cmake_install.cmake")
   include("/home/szf/ROS-Notes/catkin_ws_demo/build/irobot_description/cmake_install.cmake")
 
 endif()

@@ -6,8 +6,10 @@
 # testing this directory and lists subdirectories to be tested as well.
 subdirs("gtest")
 subdirs("foundation_learning")
+subdirs("robot_vision")
 subdirs("irobot_teleop")
 subdirs("tf_learning")
 subdirs("irobot_gazebo")
 subdirs("assembly2")
+subdirs("usb_cam")
 subdirs("irobot_description")
