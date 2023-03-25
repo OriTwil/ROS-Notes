@@ -11,6 +11,7 @@ ROS学习资料
 - [zhangrelay](https://blog.csdn.net/ZhangRelay)、鱼香ROS、古月居：优质博客
 - 参考书：这个仓库里reference-book直接下载
 ### 文件说明
+- catkin_ws_demo 实验示例（目前是我的作业，还没有整理）
 - experiment 实验代码
 - exp-guide 实验指导书
 - tutorials 教程 
