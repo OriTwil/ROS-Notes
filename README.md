@@ -25,3 +25,5 @@ roslaunch；6. 功能包编译 7.ROS开发中方便的小工具
 - 第四节 ROS与机器人感知
 - 第五节 ROS与机器人自主导航框架、ROS与机器人SLAM
 - 第六节 WTR传承内容
+### Tips
+![ChatGPT](https://github.com/song-zifan/ROS-Notes/blob/master/image/chatGPT_learning_ROS.png)
