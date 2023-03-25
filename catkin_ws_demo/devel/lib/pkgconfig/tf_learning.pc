@@ -1,0 +1,8 @@
+prefix=/home/szf/ROS-Notes/catkin_ws_demo/devel
+
+Name: tf_learning
+Description: Description of tf_learning
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

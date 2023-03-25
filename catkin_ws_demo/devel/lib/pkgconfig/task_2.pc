@@ -1,0 +1,8 @@
+prefix=/home/szf/ROS-Notes/catkin_ws_demo/devel
+
+Name: task_2
+Description: Description of task_2
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/szf/ROS-Notes/catkin_ws_demo/devel
+
+Name: assembly2
+Description: Description of assembly2
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

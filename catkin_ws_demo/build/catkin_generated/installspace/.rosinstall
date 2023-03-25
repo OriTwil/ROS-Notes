@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/szf/ROS-Notes/catkin_ws_demo/install/setup.sh
