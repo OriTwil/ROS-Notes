@@ -3,7 +3,7 @@
     <node pkg="tf" type="static_transform_publisher" name="world_to_cam" 
           args="0 0 0.5 0 1.57 0 world usb_cam 10" />
         
-    <arg name="marker_size" default="5" />
+    <arg name="marker_size" default="4.4" />
     <arg name="max_new_marker_error" default="0.08" />
     <arg name="max_track_error" default="0.2" />
     <arg name="cam_image_topic" default="/usb_cam/image_raw" />
