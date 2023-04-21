@@ -31,7 +31,7 @@ Click [here](https://github.com/OriTwil/ROS-Notes/blob/master/%E4%B8%AD%E6%96%87
 
 ## Experimental Results
 - Mapping：
-- <img src="https://github.com/OriTwil/ROS-Notes/blob/master/image/exp4(3).png" width="600" height="450">
+- <img src="https://github.com/OriTwil/ROS-Notes/blob/master/image/exp4(3).png" width="580" height="400">
 - Planning： 
-- <img src="https://github.com/OriTwil/ROS-Notes/blob/master/image/exp5(4).png" width="600" height="450">
+- <img src="https://github.com/OriTwil/ROS-Notes/blob/master/image/exp5(4).png" width="580" height="400">
 
