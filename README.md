@@ -30,5 +30,6 @@ ROS Learning Materials，Click [here](https://github.com/OriTwil/ROS-Notes/blob/
 - `Section 6`: WTR inheritance content.
 
 ## Experimental Results
-<img src="https://github.com/OriTwil/ROS-Notes/blob/master/image/exp5(4).png" width="600" height="450">
-<img src="https://github.com/OriTwil/ROS-Notes/blob/master/image/exp4(3).png" width="600" height="450">
+- 建图 <img src="https://github.com/OriTwil/ROS-Notes/blob/master/image/exp4(3).png" width="600" height="450">
+- 规划 <img src="https://github.com/OriTwil/ROS-Notes/blob/master/image/exp5(4).png" width="600" height="450">
+
