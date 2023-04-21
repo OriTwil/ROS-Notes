@@ -1,5 +1,5 @@
-# ROS-Notes
-ROS Learning Materials，Click [here](https://github.com/OriTwil/ROS-Notes/blob/master/%E4%B8%AD%E6%96%87%E8%AF%B4%E6%98%8E.md) for the Chinese version of the instructions.
+# ROS-Simulated-Mapping-Planning
+Click [here](https://github.com/OriTwil/ROS-Notes/blob/master/%E4%B8%AD%E6%96%87%E8%AF%B4%E6%98%8E.md) for the Chinese version of the instructions.
 
 ## Description
 - Prior knowledge required before learning ROS: CPP Linux basics (basic commands and knowledge).
