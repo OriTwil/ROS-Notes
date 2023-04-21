@@ -1,5 +1,5 @@
 # ROS-Notes
-ROS Learning Materials
+ROS Learning Materials，Click [here](https://github.com/OriTwil/ROS-Notes/blob/master/%E4%B8%AD%E6%96%87%E8%AF%B4%E6%98%8E.md) for the Chinese version of the instructions.
 
 ## Description
 - Prior knowledge required before learning ROS: CPP Linux basics (basic commands and knowledge).
@@ -14,20 +14,20 @@ ROS Learning Materials
 - Reference book: Download it directly from the reference-book folder in this repository.
 
 ## File Description
-- catkin_ws_demo: Experimental examples
-- experiment: Experimental data
-- exp-guide: Experimental guidebook
-- tutorials: Tutorials
-- reference-book: Reference books
+- `catkin_ws_demo`: Experimental examples
+- `experiment`: Experimental data
+- `exp-guide`: Experimental guidebook
+- `tutorials`: Tutorials
+- `reference-book`: Reference books
 - Most of the content is from the elective course of HITSZ and is based on a virtual machine platform. Some content may be different when using a dual boot.
 
 ## Learning Content
-- Section 1: ROS Overview: Current status and origin of ROS, ROS overall framework, ROS communication mechanism, ROS components.
-- Section 2: ROS Basics: 1. ROS workspace; 2. ROS communication; 3. ROS work mechanism; 4. ROS node writing; 5. Cmakelist.txt, roslaunch; 6. Package compilation; 7. Convenient small tools for ROS development.
-- Section 3: ROS and robot simulation: 1. ROS visualization, Gazebo; 2. Robot definition and composition; 3. ROS coordinate transformation; 4. Robot system construction; 5. Robot modeling and simulation.
-- Section 4: ROS and robot perception: 1. Vision; 2. Speech recognition; 3. Lidar.
-- Section 5: ROS and robot autonomous navigation framework, ROS and robot SLAM.
-- Section 6: WTR inheritance content.
+- `Section 1`: ROS Overview: Current status and origin of ROS, ROS overall framework, ROS communication mechanism, ROS components.
+- `Section 2`: ROS Basics: 1. ROS workspace; 2. ROS communication; 3. ROS work mechanism; 4. ROS node writing; 5. Cmakelist.txt, roslaunch; 6. Package compilation; 7. Convenient small tools for ROS development.
+- `Section 3`: ROS and robot simulation: 1. ROS visualization, Gazebo; 2. Robot definition and composition; 3. ROS coordinate transformation; 4. Robot system construction; 5. Robot modeling and simulation.
+- `Section 4`: ROS and robot perception: 1. Vision; 2. Speech recognition; 3. Lidar.
+- `Section 5`: ROS and robot autonomous navigation framework, ROS and robot SLAM.
+- `Section 6`: WTR inheritance content.
 
 ## Experimental Results
 <img src="https://github.com/OriTwil/ROS-Notes/blob/master/image/exp5(4).png" width="600" height="450">
