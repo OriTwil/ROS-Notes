@@ -1,0 +1,8 @@
+prefix=/home/szf/ROS-Notes/catkin_ws_demo/devel
+
+Name: rbx1_bringup
+Description: Description of rbx1_bringup
+Version: 0.4.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

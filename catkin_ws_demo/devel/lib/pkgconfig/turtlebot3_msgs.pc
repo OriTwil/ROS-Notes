@@ -1,0 +1,8 @@
+prefix=/home/szf/ROS-Notes/catkin_ws_demo/devel
+
+Name: turtlebot3_msgs
+Description: Description of turtlebot3_msgs
+Version: 1.0.1
+Cflags: -I/home/szf/ROS-Notes/catkin_ws_demo/devel/include
+Libs: -L${prefix}/lib 
+Requires: std_msgs message_runtime
