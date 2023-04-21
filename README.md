@@ -4,7 +4,7 @@ Click [here](https://github.com/OriTwil/ROS-Notes/blob/master/%E4%B8%AD%E6%96%87
 ## Description
 - Prior knowledge required before learning ROS: CPP Linux basics (basic commands and knowledge).
 - Install dual boot, do not use virtual machines. However, students without experience are advised to seek help from experienced students. Ubuntu 18.04 or 20.04 is recommended, as ROS2 can only be used in 22.04, and we will only be using ROS1 for now.
-- Some small experiments and deadlines will be set later.
+- Some experiments and deadlines will be set later.
 - ROS is just a "tool", and the key to learning is to complete the experiments. You will quickly get the hang of it.
 
 ## Recommended Resources
@@ -30,8 +30,8 @@ Click [here](https://github.com/OriTwil/ROS-Notes/blob/master/%E4%B8%AD%E6%96%87
 - `Section 6`: WTR inheritance content.
 
 ## Experimental Results
-- 建图：
+- Mapping：
 - <img src="https://github.com/OriTwil/ROS-Notes/blob/master/image/exp4(3).png" width="600" height="450">
-- 规划： 
+- Planning： 
 - <img src="https://github.com/OriTwil/ROS-Notes/blob/master/image/exp5(4).png" width="600" height="450">
 
